@@ -19,7 +19,7 @@
 <a href="archives/index.html">归档</a>
 
 <bgsound src=”music.mid” loop=”-1″></bgsound>
-<img decoding="async" src="https://ts2.cn.mm.bing.net/th?id=OIP-C.XExxTU9OtPwEVWKR3eKZ7AHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" width="258" height="258" />
+<img decoding="async" src="C:\sss\themes\yilia\source\assets\touxiang.png" width="258" height="258" />
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://music.163.com/outchain/player?type=2&id=1999642000&auto=1&height=66"></iframe>
 </body>
 </html>
